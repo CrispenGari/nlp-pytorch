@@ -1,0 +1,110 @@
+{
+  "business_hours": [
+    "Our support team is here from 9 AM to 6 PM, Monday to Friday. ⏰",
+    "We're open on weekdays from 9 AM to 6 PM. 📅",
+    "Our customer service hours are 9 AM - 6 PM, Monday through Friday. 🕘",
+    "We are available Monday to Friday, 9 AM - 6 PM. 😊",
+    "Business hours: 9 AM to 6 PM on weekdays. 🏢",
+    "Our team is online during 9 AM - 6 PM, Monday to Friday. 💼",
+    "You can reach us on weekdays between 9 AM and 6 PM. 📞",
+    "We operate from 9 AM to 6 PM, Monday-Friday. 🕓",
+    "Our support team is active Monday to Friday, 9 AM-6 PM. 💻",
+    "We are open 9 AM - 6 PM on weekdays. 📆"
+  ],
+  "account_help": [
+    "Sure! I can help with your account. Could you give me more details? 🙌",
+    "I'd be happy to assist with your account issues. What's the problem? 🔍",
+    "Let's fix this! Please tell me more about your account problem. 🔧",
+    "I can help update or check your account. What do you need? 📂",
+    "How can I assist you with your account today? 😊",
+    "I'm here to sort out account problems. Can you share details? 📝",
+    "Please let me know what's wrong with your account. 💡",
+    "I'll guide you with account help. What needs fixing? 🤝",
+    "Let's work on your account issue together. What's happening? 👨‍💻",
+    "I can assist with login or updates. Could you tell me more? ✍️"
+  ],
+  "cancellation": [
+    "I'm sorry to hear you want to cancel. Should I proceed? 😔",
+    "I can help with your cancellation request. Can you confirm details? 🛑",
+    "Would you like me to cancel your subscription? 📉",
+    "Your cancellation request is noted. Let me proceed. 🗑️",
+    "I can help cancel your order. Please confirm the ID. 📦",
+    "Are you sure you want to cancel? I'll handle it for you. 🤔",
+    "No problem! I'll help cancel that right away. ✔️",
+    "Your subscription can be canceled now. Want me to proceed? 🔓",
+    "I understand, let's cancel your plan. 🔄",
+    "Canceling is easy. Should I start the process? ⏳"
+  ],
+  "service_info": [
+    "We offer a wide range of services including fast delivery. 🚚",
+    "Would you like to know about our premium features? ⭐",
+    "Our services include quick returns and secure payments. 🔐",
+    "We provide support, fast shipping, and easy returns. 📦",
+    "Are you looking for details about our service plans? 📃",
+    "Our platform provides reliable and efficient services. 🔧",
+    "I can share more about our premium options. Would you like that? 💎",
+    "We focus on quality service and customer satisfaction. 😊",
+    "Want to learn about our offers and features? 🎁",
+    "We provide product recommendations and priority delivery. 📦"
+  ],
+  "order_status": [
+    "Please share your order number so I can check. 🔍",
+    "I can track your order. Could you provide the ID? 📦",
+    "Your order is being processed. Want more details? 🚀",
+    "Let me check your order status. Do you have the order ID? 📝",
+    "I can track shipping details for you. Provide order number. 🛒",
+    "Your package is on its way! Do you need the tracking info? 📬",
+    "Order updates are available. Could you confirm the ID? 📃",
+    "I'll look up your order. Do you have the reference number? 🆔",
+    "Want me to update you on your order's delivery? 📦",
+    "I can tell you where your order is. Please share the details. 🔎"
+  ],
+  "technical_support": [
+    "I'm here to help fix technical issues. Could you describe the problem? 🛠️",
+    "Let's troubleshoot this together. What's the error? 🖥️",
+    "I'll help you resolve the issue. Could you tell me more? 🧰",
+    "Need technical support? Please share the problem. 🔧",
+    "I can assist with any errors or issues. What's wrong? ❌",
+    "Let's fix this! What technical issue are you facing? ⚙️",
+    "I'll guide you through troubleshooting steps. Shall we start? 📘",
+    "Could you share screenshots or details of the error? 🖼️",
+    "No worries, I'll help solve this technical glitch. 🔄",
+    "Tell me what's broken, and we'll fix it together. 🤝"
+  ],
+  "password_reset": [
+    "Would you like me to send you a password reset link? 📧",
+    "You can reset your password using the 'Forgot Password' link. 🔒",
+    "I can help reset your password right now. Want to proceed? ✅",
+    "Let's get your password reset. Should I start? 🔐",
+    "I'll send a password reset link to your email. Shall I? 📩",
+    "Don't worry! Resetting your password is easy. 😌",
+    "You can create a new password via the reset link. 🔑",
+    "Would you like me to email you password reset instructions? 📤",
+    "Clicking 'Forgot Password' will guide you through reset steps. 📝",
+    "I can handle your password reset request. Ready? 🔁"
+  ],
+  "payment_update": [
+    "You can update your payment info in Account Settings → Billing. 💳",
+    "Would you like me to guide you through updating your card? 🏦",
+    "You can change your payment method from your profile. 📲",
+    "I'll help you update your payment details. Where do you want to start? 💰",
+    "Updating payment details is simple under Billing settings. 📜",
+    "Would you like a step-by-step guide to update payments? 📖",
+    "Your payment method can be changed anytime from settings. ⚙️",
+    "I can assist you with adding or removing payment options. 🛡️",
+    "Let's update your card details together. Ready? 💵",
+    "Would you like me to share the link for updating payments? 🔗"
+  ],
+  "return_request": [
+    "I can process your return. Could you share your order ID? 🔄",
+    "Please provide your order number to start the return. 📦",
+    "I'll help with your return request. What item is being returned? 🛍️",
+    "Your return request is noted. Shall we proceed? ✅",
+    "Returning is easy. I just need your order details. 📝",
+    "Would you like me to email the return label? 📧",
+    "I can assist with your return. Do you want a pickup arranged? 🚚",
+    "Your return request can be initiated now. Should I start? 🔓",
+    "Please share the product ID so I can process the return. 🆔",
+    "I'll handle your return. Do you have the order reference? 🗂️"
+  ]
+}
